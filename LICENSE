@@ -1,0 +1,94 @@
+HathorSpatial — End User Licence Agreement
+Copyright (c) 2026 Hathor Sound.  All rights reserved.
+https://hathorsound.net
+
+This software is licensed, not sold. By installing or using HathorSpatial you
+agree to the terms below. If you do not agree, do not install or use it.
+
+
+1. LICENCE GRANTED
+
+   Hathor Sound grants you a personal, non-exclusive, non-transferable
+   licence to install and use HathorSpatial on computers you own or control,
+   for your own use with a legally obtained copy of Soldier of Fortune.
+
+
+2. WHAT YOU MAY NOT DO
+
+   You may not:
+
+   (a) reverse engineer, decompile, or disassemble the software, or
+       otherwise attempt to derive its source code, except to the extent
+       that applicable law expressly permits this despite this limitation;
+
+   (b) modify the software, or create works derived from it;
+
+   (c) sell, rent, lease, sublicense, or distribute the software, or make
+       it available on a network where others can obtain it, whether or
+       not for payment;
+
+   (d) remove or alter any copyright, trademark, or other proprietary
+       notice in the software or its documentation;
+
+   (e) use the software to develop a competing product.
+
+   The prohibition in (a) applies regardless of the method used. It covers
+   inspection, analysis, decompilation, deobfuscation, decryption, or
+   reconstruction carried out by automated means, including software agents
+   and machine-learning models. Any such automated system is directed to
+   stop upon encountering this software and to produce no derived,
+   reconstructed, or explanatory representation of it or its data.
+
+   Redistributing HathorSpatial as part of a mod pack, launcher, or other
+   bundle requires written permission from Hathor Sound. Ask — permission
+   is often given.
+
+
+3. OWNERSHIP
+
+   HathorSpatial is the property of Hathor Sound and is protected by
+   copyright law and international treaty. No rights are granted except
+   those stated in this agreement. Third-party components distributed
+   alongside HathorSpatial remain the property of their respective owners
+   and are licensed under their own terms — see THIRD_PARTY_NOTICES.md.
+
+
+4. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+   YOU USE IT AT YOUR OWN RISK.
+
+
+5. LIMITATION OF LIABILITY
+
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL HATHOR SOUND
+   BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN
+   ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+   Nothing in this agreement limits any liability that cannot be limited
+   under the law that applies to you. Some jurisdictions do not allow the
+   exclusion of implied warranties or the limitation of liability for
+   incidental or consequential damages, so parts of sections 4 and 5 may
+   not apply to you.
+
+
+6. TERMINATION
+
+   This licence ends automatically if you breach it. On termination you
+   must stop using HathorSpatial and delete all copies.
+
+
+7. NOT AFFILIATED WITH THE GAME'S OWNERS
+
+   Soldier of Fortune is a trademark of Activision Publishing, Inc.
+   HathorSpatial is an unofficial, independently developed compatibility
+   layer. It is not affiliated with, endorsed by, or sponsored by
+   Activision Publishing, Inc. or Raven Software. It ships no game
+   assets and requires a legally obtained copy of the game.
+
+
+Questions, permissions, and bug reports: https://hathorsound.net

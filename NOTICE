@@ -1,0 +1,19 @@
+HathorSpatial
+Copyright (c) 2026 Hathor Sound.  All rights reserved.
+https://hathorsound.net
+
+HathorSpatial is proprietary software, licensed under the terms in the
+LICENSE file. It is distributed in binary form only; no source code is
+released, and no rights are granted beyond those the licence states.
+
+This product depends at runtime on Steam Audio (phonon.dll),
+Copyright 2017-2023 Valve Corporation, licensed under the Apache
+License, Version 2.0. A copy of that license is included as
+LICENSE-Apache-2.0.txt. Steam Audio is loaded dynamically and is
+redistributed unmodified. See THIRD_PARTY_NOTICES.md for details.
+
+Soldier of Fortune is a trademark of Activision Publishing, Inc.
+This project is an unofficial, independently developed compatibility
+layer and is not affiliated with, endorsed by, or sponsored by
+Activision Publishing, Inc. or Raven Software. It ships no game
+assets and requires a legally obtained copy of the game.
